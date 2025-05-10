@@ -1,1 +1,2 @@
 # GitCli
+READMEに追記
